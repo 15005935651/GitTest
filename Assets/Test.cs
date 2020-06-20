@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Test : MonoBehaviour {
-    private string str = "Second";
+    private string str = "Third";
 	// Use this for initialization
 	void Start () {
 		
